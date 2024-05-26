@@ -1,2 +1,2 @@
 # GitHub-and-Jupyter-setup
-Human-Centered Data Science: Setting up your tools
+Setting up your tools for Human Centered Data Science
